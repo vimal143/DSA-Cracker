@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestConsecutive",
+            "request": "launch",
+            "mainClass": "LongestConsecutive",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargeFactorial",
+            "request": "launch",
+            "mainClass": "LargeFactorial",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - subArraywithSum0",
+            "request": "launch",
+            "mainClass": "subArraywithSum0",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - commonIn3SortedArray",
+            "request": "launch",
+            "mainClass": "commonIn3SortedArray",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InversionCount",
+            "request": "launch",
+            "mainClass": "InversionCount",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StockBuySell",
+            "request": "launch",
+            "mainClass": "StockBuySell",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountPairs_Sum",
+            "request": "launch",
+            "mainClass": "CountPairs_Sum",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InversionCount",
+            "request": "launch",
+            "mainClass": "InversionCount",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DuplicateInArray",
+            "request": "launch",
+            "mainClass": "DuplicateInArray",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinimumJumps",
+            "request": "launch",
+            "mainClass": "MinimumJumps",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoveNegativeArray",
+            "request": "launch",
+            "mainClass": "MoveNegativeArray",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinMaxArray",
+            "request": "launch",
+            "mainClass": "MinMaxArray",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<Java_5541a045>",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_5541a045"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution1<Java_5541a045>",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "Java_5541a045"
+        }
+    ]
+}
