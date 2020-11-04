@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ChocolateProblem",
+            "request": "launch",
+            "mainClass": "ChocolateProblem",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - trappingRain",
+            "request": "launch",
+            "mainClass": "trappingRain",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - trappingRainWater",
+            "request": "launch",
+            "mainClass": "trappingRainWater",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tripletArraySumN3",
+            "request": "launch",
+            "mainClass": "tripletArraySumN3",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - subsetArray",
+            "request": "launch",
+            "mainClass": "subsetArray",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LongestConsecutive",
             "request": "launch",
             "mainClass": "LongestConsecutive",
