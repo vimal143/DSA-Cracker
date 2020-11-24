@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - palindromeString",
+            "request": "launch",
+            "mainClass": "palindromeString",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - spiralMatrix",
+            "request": "launch",
+            "mainClass": "spiralMatrix",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ChocolateProblem",
             "request": "launch",
             "mainClass": "ChocolateProblem",
