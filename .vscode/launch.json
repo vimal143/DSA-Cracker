@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - stringRotation",
+            "request": "launch",
+            "mainClass": "stringRotation",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DuplicateChar",
+            "request": "launch",
+            "mainClass": "DuplicateChar",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - palindromeString",
             "request": "launch",
             "mainClass": "palindromeString",
