@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BalancedBracket",
+            "request": "launch",
+            "mainClass": "Strings.BalancedBracket",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SplitBinaryString",
+            "request": "launch",
+            "mainClass": "Strings.SplitBinaryString",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateInArray",
+            "request": "launch",
+            "mainClass": "DuplicateInArray",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - stringRotation",
             "request": "launch",
             "mainClass": "stringRotation",
