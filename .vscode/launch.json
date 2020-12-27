@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch romanToDecimal",
+            "request": "launch",
+            "mainClass": "Strings.romanToDecimal",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch balanceTheBracket",
+            "request": "launch",
+            "mainClass": "Strings.balanceTheBracket",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveNegativeArray",
+            "request": "launch",
+            "mainClass": "MoveNegativeArray",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch numericKeypad",
+            "request": "launch",
+            "mainClass": "Strings.numericKeypad",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "Launch BalancedBracket",
             "request": "launch",
             "mainClass": "Strings.BalancedBracket",
