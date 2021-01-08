@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch watchingcpl",
+            "request": "launch",
+            "mainClass": "watchingcpl",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pointofImpact",
+            "request": "launch",
+            "mainClass": "pointofImpact",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch fairElection",
+            "request": "launch",
+            "mainClass": "Strings.fairElection",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch encodedStrings",
+            "request": "launch",
+            "mainClass": "Strings.encodedStrings",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch checfdiv3",
+            "request": "launch",
+            "mainClass": "checfdiv3",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch fixedPointValue",
+            "request": "launch",
+            "mainClass": "Sorting.fixedPointValue",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch positionsInSortedArray",
+            "request": "launch",
+            "mainClass": "Sorting.positionsInSortedArray",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "Launch romanToDecimal",
             "request": "launch",
             "mainClass": "Strings.romanToDecimal",
