@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch longestCommonPrefix",
+            "request": "launch",
+            "mainClass": "Strings.longestCommonPrefix",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordBreak",
+            "request": "launch",
+            "mainClass": "Strings.wordBreak",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch printallSubsq",
+            "request": "launch",
+            "mainClass": "Strings.printallSubsq",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestRepeatingSubsq",
+            "request": "launch",
+            "mainClass": "Strings.longestRepeatingSubsq",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPalindromeString",
+            "request": "launch",
+            "mainClass": "Strings.LongestPalindromeString",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "Launch watchingcpl",
             "request": "launch",
             "mainClass": "watchingcpl",

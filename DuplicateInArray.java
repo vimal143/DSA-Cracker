@@ -7,7 +7,7 @@ public class DuplicateInArray {
     private static int[] arr;
 
     public static void main(String[] args) {
-        int[] arr = new int[] { 1, 1, 2, 3, 4, 3, 5 };
+        int[] arr = new int[] { 1, 8, 2, 3, 4, 1, 5,3,9,8 };
         int len = arr.length;
         findDuplicate(arr, len);
     }
