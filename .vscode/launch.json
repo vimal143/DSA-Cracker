@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch teastqs",
+            "request": "launch",
+            "mainClass": "teastqs",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testq",
+            "request": "launch",
+            "mainClass": "Testq",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern5",
+            "request": "launch",
+            "mainClass": "StarPattern5",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern4",
+            "request": "launch",
+            "mainClass": "StarPattern4",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPatter3",
+            "request": "launch",
+            "mainClass": "StarPatter3",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern2",
+            "request": "launch",
+            "mainClass": "StarPattern2",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StratPrint1",
+            "request": "launch",
+            "mainClass": "StratPrint1",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixTSum",
+            "request": "launch",
+            "mainClass": "MatrixTSum",
+            "projectName": "DSA_65d8bb2f"
+        },
+        {
+            "type": "java",
             "name": "Launch longestCommonPrefix",
             "request": "launch",
             "mainClass": "Strings.longestCommonPrefix",
